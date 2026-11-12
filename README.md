@@ -1,7 +1,6 @@
-# 💫 About Me:
 👋 Hi, I'm Nitish Kumar!
 
-🎓 I'm a B.Tech student pursuing Computer Science and Engineering (CSE), passionate about technology, problem-solving, and exploring the world of computing.
+👨‍💻 About Me: I'm a B.Tech student pursuing Computer Science and Engineering (CSE), passionate about technology, problem-solving, and exploring the world of computing.
 
 🔭 Currently working on: Strengthening my problem-solving skills through Data Structures & Algorithms (DSA) and exploring practical applications of Artificial Intelligence and Machine Learning.
 
