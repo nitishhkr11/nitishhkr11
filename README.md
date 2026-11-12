@@ -1,5 +1,19 @@
 # 💫 About Me:
-🔭 Currently working on: Strengthening my problem-solving skills through Data Structures & Algorithms (DSA) and exploring practical applications of Artificial Intelligence and Machine Learning.<br><br>🤝 Looking to collaborate on: Projects involving Data Science, AI/ML, Data Analytics, and Software Development.<br><br>🌱 Technical interests: Data Analytics, SQL, Python, C++, Artificial Intelligence, Machine Learning, and Data Science.<br><br>💡 Currently exploring: Advanced DSA concepts, machine learning techniques, and building practical, real-world projects.<br><br>💬 Ask me about: Python, C++, SQL, Data Analytics, Data Science, and my journey into AI/ML.<br><br>🎬 Fun fact: A cinema enthusiast who enjoys films across languages, cultures, and genres. For me, a compelling story has no language barrier.<br>Passionate about photography, capturing perspectives, exploring visual storytelling, and finding beauty in everyday moments.
+👋 Hi, I'm Nitish Kumar!
+
+🎓 I'm a B.Tech student pursuing Computer Science and Engineering (CSE), passionate about technology, problem-solving, and exploring the world of computing.
+
+🔭 Currently working on: Strengthening my problem-solving skills through Data Structures & Algorithms (DSA) and exploring practical applications of Artificial Intelligence and Machine Learning.
+
+🤝 Looking to collaborate on: Projects involving Data Science, AI/ML, Data Analytics, and Software Development.
+
+🌱 Technical interests: Data Analytics, SQL, Python, C++, Artificial Intelligence, Machine Learning, and Data Science.
+
+💬 Ask me about: Python, C++, SQL, Data Analytics, and my journey into AI/ML.
+
+🎬 Fun fact: A cinema enthusiast who enjoys films across languages, cultures, and genres. For me, a compelling story has no language barrier.
+
+📸 Beyond code: Passionate about photography, visual storytelling, and capturing perspectives.
 
 
 ## 🌐 Socials:
